@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=500%2B+LeetCode+Problems;Next.js+%7C+TypeScript+%7C+Express;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=500%2B+DSA+Problems;Next.js+%7C+TypeScript+%7C+Express;Building+Scalable+Web+Applications" />
 </p>
 
 ---
