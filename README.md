@@ -14,7 +14,7 @@
 
 - 🎓 B.Tech in Computer Science @ **IIIT Bhagalpur**
 - 💻 Interested in **Backend Engineering** and **Full Stack Development**
-- 📚 Solved **500+ LeetCode** problems in **C++**
+- 📚 Solved **500+ DSA** problems in **C++**
 - 🌱 Currently learning **Next.js, TypeScript, Express, MongoDB**
 
 ---
