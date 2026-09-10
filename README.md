@@ -94,28 +94,18 @@ Online compiler supporting multiple languages with secure isolated execution.
 ## 📊 Competitive Programming
 
 <p align="center">
-  <a href="https://leetcode.com/your_username">
+  <a href="leetcode.com/utsav_20_02/">
     <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 
-  <a href="https://codeforces.com/profile/your_username">
+  <a href="https://codeforces.com/profile/kumarutsav">
     <img src="https://img.shields.io/badge/Codeforces-Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-
-  <a href="https://www.codechef.com/users/your_username">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 ## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=utsav-02-20&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=utsav-02-20&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=utsav-02-20&theme=github-dark&hide_border=true"/>
 </p>
