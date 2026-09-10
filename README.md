@@ -112,12 +112,12 @@ Online compiler supporting multiple languages with secure isolated execution.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=utsavkumar&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavkumar&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=your_username&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=utsavkumar&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
