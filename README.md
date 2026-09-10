@@ -111,13 +111,16 @@ Online compiler supporting multiple languages with secure isolated execution.
 
 ## 📈 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=utsavkumar&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavkumar&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=utsav-02-20&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsav-02-20&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=utsavkumar&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=utsav-02-20&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
@@ -125,16 +128,12 @@ Online compiler supporting multiple languages with secure isolated execution.
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/your_username">
+  <a href="https://github.com/utsav-02-20">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 
-  <a href="https://linkedin.com/in/your_username">
+  <a href="[https://linkedin.com/in/utsav-kumar-54b9bb322](https://www.linkedin.com/in/utsav-kumar-54b9bb322)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:your_email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
