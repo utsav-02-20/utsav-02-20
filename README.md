@@ -63,20 +63,6 @@ A real-time ride booking platform featuring:
 
 ---
 
-### 💻 Multi-Language Code Compiler
-
-> **Next.js • Express.js • Docker**
-
-Online compiler supporting multiple languages with secure isolated execution.
-
-**Features**
-- C++, Java, Python, JavaScript support.
-- Docker sandbox execution.
-- Custom input/output.
-- Time & memory limits.
-
----
-
 ## 📊 Competitive Programming
 
 <p align="center">
