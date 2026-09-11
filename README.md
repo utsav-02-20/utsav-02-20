@@ -50,20 +50,6 @@
 
 ## ⭐ Featured Projects
 
-### 🌍 World Bank Development Dashboard
-
-> **Next.js • TypeScript • Tailwind CSS • Plotly.js**
-
-Interactive dashboard to visualize World Bank indicators across countries with filtering, charts, maps, and analytics.
-
-**Highlights**
-- 📊 Interactive Plotly charts.
-- 🌎 Country comparison dashboard.
-- 📈 Time-series analytics.
-- 🎛️ Advanced filtering and responsive UI.
-
----
-
 ### 🚗 Uber Clone
 
 > **MERN • Socket.IO • Google Maps API**
