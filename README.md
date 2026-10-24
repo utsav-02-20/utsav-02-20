@@ -91,7 +91,7 @@ A real-time ride booking platform featuring:
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 
-  <a href="[https://linkedin.com/in/utsav-kumar-54b9bb322](https://www.linkedin.com/in/utsav-kumar-54b9bb322)">
+  <a href="https://www.linkedin.com/in/utsav-kumar-54b9bb322">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
