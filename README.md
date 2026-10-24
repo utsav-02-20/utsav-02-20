@@ -66,7 +66,7 @@ A real-time ride booking platform featuring:
 ## 📊 Competitive Programming
 
 <p align="center">
-  <a href="leetcode.com/utsav_20_02/">
+  <a href="https://leetcode.com/u/utsav_20_02/">
     <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 
